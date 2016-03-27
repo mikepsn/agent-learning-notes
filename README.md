@@ -18,6 +18,7 @@ Subreddits
 ==========
 
     * [Reinforcement Learning](https://www.reddit.com/r/reinforcementlearning/) 
+    * [Machine Learning](https://www.reddit.com/r/MachineLearning) 
 
 Labs
 ====
